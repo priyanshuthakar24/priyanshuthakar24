@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Priyanshu Thakar
 
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
+  <img height="300" src="https://gomycode.com/ng/wp-content/uploads/sites/29/2024/03/dev-ops-gif-dr.gif" />
 </div>
 
 <div align="center">
@@ -21,32 +21,31 @@
 
 ## 👨‍💻 About Me
 
-* 🚀 DevOps Engineer with 1.5 years experience
-* ⚙️ Odoo & ERPNext Deployment Specialist
-* ☁️ Docker | CI/CD | Linux | Cloud
-* 🌱 Learning Kubernetes & Terraform
+I’m a DevOps Engineer with 1.5 years of experience working on production systems.
+
+* 🏢 Working in a company handling **production deployments**
+* ⚙️ Specialized in **Odoo & ERPNext deployments**
+* 🖥️ Hands-on with **bare metal servers & system administration**
+* 🌐 Strong knowledge of **networking & server management**
+* ☁️ Working with **cloud infrastructure & automation**
+* 🔄 Automating processes using **CI/CD pipelines**
+* 📦 Managing databases like **PostgreSQL & MariaDB**
+* 🌱 Learning **Kubernetes & Terraform**
 
 ---
 
-## 🚀 Projects
+## 🚀 Featured Work
 
-### 🔹 Odoo Deployment
+### 🌐 OdooOnline – ERP Hosting Platform
 
-* Docker + PostgreSQL + Nginx
-* SSL + Reverse Proxy
-* CI/CD automation
+👉 https://odooonline.com/
 
-### 🔹 ERPNext Setup
+* Built a platform to launch instant Odoo demo environments
+* No setup required — users can explore real ERP modules directly
+* Supports industries like Manufacturing, Hospitality, Services, Education
+* Focused on deployment automation, scalability & user experience
 
-* Bench + MariaDB + Redis
-* Production deployment
-* Backup & monitoring
-
-### 🔹 CI/CD Pipelines
-
-* Automated deployments
-* Zero downtime setup
-
+💡 Enables businesses to test real-world ERP solutions without installation
 ---
 
 ## 🛠 Tech Stack
@@ -60,6 +59,8 @@
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge\&logo=githubactions\&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/jenkins-D24939?style=for-the-badge\&logo=jenkins\&logoColor=white)
 
+![Odoo](https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white)
+![ERPNext](https://img.shields.io/badge/ERPNext-0089FF?style=for-the-badge&logo=data&logoColor=white)
 ---
 
 ## 📊 GitHub Stats
@@ -72,5 +73,16 @@
 
 ## 🌐 Connect With Me
 
-* 💼 LinkedIn: [https://linkedin.com/in/priyanshu-thakar-3b1547274](https://www.linkedin.com/in/priyanshu-thakar-3b1547274)
+* 💼 LinkedIn: https://linkedin.com/in/priyanshu-thakar-3b1547274
 * 📧 Email: [priyanshuthakar24@gmail.com](mailto:priyanshuthakar24@gmail.com)
+
+---
+
+## 🐍 Contribution Graph
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=priyanshuthakar24&theme=github_dark" />
+</div>
+---
+
+✨ *DevOps Engineer focused on automation, infrastructure & real-world deployments.*
